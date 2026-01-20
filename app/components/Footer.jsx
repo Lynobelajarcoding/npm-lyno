@@ -324,7 +324,7 @@ export default function Footer() {
 
       <FooterBottom>
         <Copyright>
-          © 2025 DANNZZ. Made with <FaHeart /> by Dannzz Team.
+          © 2026 Lyno-UI Made with <FaHeart />
         </Copyright>
 
         <QuickLinks>
