@@ -279,7 +279,7 @@ export default function Footer() {
     <FooterContainer>
       <FooterContent>
         <BrandSection>
-          <h3>DANNZZ</h3>
+          <h3>LYNO-UI</h3>
           <p>
             Membangun pengalaman digital yang luar biasa dengan teknologi modern
             dan desain yang memukau. Kualitas adalah prioritas kami.

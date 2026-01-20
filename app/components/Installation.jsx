@@ -196,7 +196,7 @@ export default function Installation() {
         <Command>
           <span className="prompt">$</span>
           <span className="cmd">npm install</span>
-          <span className="package">styled-lyno</span>
+          <span className="package">npm-lyno</span>
         </Command>
         <CopyButton onClick={handleCopy} $copied={copied}>
           {copied ? (
